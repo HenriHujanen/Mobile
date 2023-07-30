@@ -1,0 +1,652 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+
+    <!-- Question 0 -->
+    <string name="tv_question_0">In "Breaking Bad," what is the street name for the high-quality blue methamphetamine produced by Walter White and Jesse Pinkman?</string>
+    <string name="tv_option_0_1">Blue Crystal</string>
+    <string name="tv_option_0_2">Blue Sky</string>
+    <string name="tv_option_0_3">Ice</string>
+    <string name="tv_option_0_4">Heisenbergs Blue</string>
+    <string name="tv_answer_0">Blue Sky</string>
+
+    <!-- Question 1 -->
+    <string name="tv_question_1">Which TV show follows the lives of six friends living in Manhattan?</string>
+    <string name="tv_option_1_1">Friends</string>
+    <string name="tv_option_1_2">How I Met Your Mother</string>
+    <string name="tv_option_1_3">The Big Bang Theory</string>
+    <string name="tv_option_1_4">Seinfeld</string>
+    <string name="tv_answer_1">Friends</string>
+
+    <!-- Question 2 -->
+    <string name="tv_question_2">In "Game of Thrones," who is known as the "Mother of Dragons"?</string>
+    <string name="tv_option_2_1">Cersei Lannister</string>
+    <string name="tv_option_2_2">Arya Stark</string>
+    <string name="tv_option_2_3">Daenerys Targaryen</string>
+    <string name="tv_option_2_4">Sansa Stark</string>
+    <string name="tv_answer_2">Daenerys Targaryen</string>
+
+    <!-- Question 3 -->
+    <string name="tv_question_3">Which TV show features a high school teacher turned methamphetamine manufacturer?</string>
+    <string name="tv_option_3_1">Breaking Bad</string>
+    <string name="tv_option_3_2">The Walking Dead</string>
+    <string name="tv_option_3_3">Stranger Things</string>
+    <string name="tv_option_3_4">Game of Thrones</string>
+    <string name="tv_answer_3">Breaking Bad</string>
+
+    <!-- Question 4 -->
+    <string name="tv_question_4">Who plays the title role in the TV show "Sherlock"?</string>
+    <string name="tv_option_4_1">Benedict Cumberbatch</string>
+    <string name="tv_option_4_2">Martin Freeman</string>
+    <string name="tv_option_4_3">Andrew Scott</string>
+    <string name="tv_option_4_4">David Tennant</string>
+    <string name="tv_answer_4">Benedict Cumberbatch</string>
+
+    <!-- Question 5 -->
+    <string name="tv_question_5">In "Stranger Things," what is the name of Elevens telekinetic friend?</string>
+    <string name="tv_option_5_1">Mike</string>
+    <string name="tv_option_5_2">Dustin</string>
+    <string name="tv_option_5_3">Lucas</string>
+    <string name="tv_option_5_4">Will</string>
+    <string name="tv_answer_5">Eleven</string>
+
+    <!-- Question 6 -->
+    <string name="tv_question_6">Which TV show features a character named Walter White?</string>
+    <string name="tv_option_6_1">The Sopranos</string>
+    <string name="tv_option_6_2">Breaking Bad</string>
+    <string name="tv_option_6_3">Mad Men</string>
+    <string name="tv_option_6_4">The Wire</string>
+    <string name="tv_answer_6">Breaking Bad</string>
+
+    <!-- Question 7 -->
+    <string name="tv_question_7">In "The Office," who is the bumbling regional manager of Dunder Mifflin Scranton?</string>
+    <string name="tv_option_7_1">Jim Halpert</string>
+    <string name="tv_option_7_2">Michael Scott</string>
+    <string name="tv_option_7_3">Dwight Schrute</string>
+    <string name="tv_option_7_4">Pam Beesly</string>
+    <string name="tv_answer_7">Michael Scott</string>
+
+    <!-- Question 8 -->
+    <string name="tv_question_8">Who is the main character in "Dexter," a TV show about a blood-spatter analyst who leads a secret life as a serial killer?</string>
+    <string name="tv_option_8_1">James Doakes</string>
+    <string name="tv_option_8_2">Debra Morgan</string>
+    <string name="tv_option_8_3">Harry Morgan</string>
+    <string name="tv_option_8_4">Dexter Morgan</string>
+    <string name="tv_answer_8">Dexter Morgan</string>
+
+    <!-- Question 9 -->
+    <string name="tv_question_9">In "The Simpsons," what is the name of Homer Simpsons eldest daughter?</string>
+    <string name="tv_option_9_1">Maggie</string>
+    <string name="tv_option_9_2">Lisa</string>
+    <string name="tv_option_9_3">Bart</string>
+    <string name="tv_option_9_4">Marge</string>
+    <string name="tv_answer_9">Lisa</string>
+
+    <!-- Question 10 -->
+    <string name="tv_question_10">In "Stranger Things," what is the name of the parallel dimension inhabited by the Demogorgon?</string>
+    <string name="tv_option_10_1">The Netherworld</string>
+    <string name="tv_option_10_2">The Shadow Realm</string>
+    <string name="tv_option_10_3">The Upside Down</string>
+    <string name="tv_option_10_4">The Dark Zone</string>
+    <string name="tv_answer_10">The Upside Down</string>
+
+    <!-- Question 11 -->
+    <string name="tv_question_11">Who is the creator of the TV show "Black Mirror"?</string>
+    <string name="tv_option_11_1">Steven Moffat</string>
+    <string name="tv_option_11_2">Charlie Brooker</string>
+    <string name="tv_option_11_3">David Lynch</string>
+    <string name="tv_option_11_4">J.J. Abrams</string>
+    <string name="tv_answer_11">Charlie Brooker</string>
+
+    <!-- Question 12 -->
+    <string name="tv_question_12">Which TV show is set in the fictional town of Hawkins, Indiana?</string>
+    <string name="tv_option_12_1">The X-Files</string>
+    <string name="tv_option_12_2">Supernatural</string>
+    <string name="tv_option_12_3">Stranger Things</string>
+    <string name="tv_option_12_4">Twin Peaks</string>
+    <string name="tv_answer_12">Stranger Things</string>
+
+    <!-- Question 13 -->
+    <string name="tv_question_13">In "Game of Thrones," what is the sigil of House Stark?</string>
+    <string name="tv_option_13_1">Lion</string>
+    <string name="tv_option_13_2">Dragon</string>
+    <string name="tv_option_13_3">Wolf</string>
+    <string name="tv_option_13_4">Stag</string>
+    <string name="tv_answer_13">Wolf</string>
+
+    <!-- Question 14 -->
+    <string name="tv_question_14">Who is the primary antagonist in "Breaking Bad"?</string>
+    <string name="tv_option_14_1">Tuco Salamanca</string>
+    <string name="tv_option_14_2">Gustavo "Gus" Fring</string>
+    <string name="tv_option_14_3">Hank Schrader</string>
+    <string name="tv_option_14_4">Walter White</string>
+    <string name="tv_answer_14">Gustavo "Gus" Fring</string>
+
+    <!-- Question 15 -->
+    <string name="tv_question_15">In "The Crown," which historical figure is portrayed as the main character?</string>
+    <string name="tv_option_15_1">Queen Elizabeth II</string>
+    <string name="tv_option_15_2">Princess Margaret</string>
+    <string name="tv_option_15_3">Queen Victoria</string>
+    <string name="tv_option_15_4">Princess Diana</string>
+    <string name="tv_answer_15">Queen Elizabeth II</string>
+
+    <!-- Question 16 -->
+    <string name="tv_question_16">Which TV show is about a high school chemistry teacher turned criminal mastermind?</string>
+    <string name="tv_option_16_1">The Sopranos</string>
+    <string name="tv_option_16_2">Narcos</string>
+    <string name="tv_option_16_3">Breaking Bad</string>
+    <string name="tv_option_16_4">Better Call Saul</string>
+    <string name="tv_answer_16">Breaking Bad</string>
+
+    <!-- Question 17 -->
+    <string name="tv_question_17">In "The Office," which character is known for their eccentric and unpredictable behavior?</string>
+    <string name="tv_option_17_1">Jim Halpert</string>
+    <string name="tv_option_17_2">Michael Scott</string>
+    <string name="tv_option_17_3">Dwight Schrute</string>
+    <string name="tv_option_17_4">Pam Beesly</string>
+    <string name="tv_answer_17">Dwight Schrute</string>
+
+    <!-- Question 18 -->
+    <string name="tv_question_18">Which TV show features a group of friends living together in an apartment building in New York City?</string>
+    <string name="tv_option_18_1">Friends</string>
+    <string name="tv_option_18_2">How I Met Your Mother</string>
+    <string name="tv_option_18_3">The Big Bang Theory</string>
+    <string name="tv_option_18_4">Seinfeld</string>
+    <string name="tv_answer_18">Friends</string>
+
+    <!-- Question 19 -->
+    <string name="tv_question_19">In "Stranger Things," what is the name of the parallel dimension inhabited by the Demogorgon?</string>
+    <string name="tv_option_19_1">The Netherworld</string>
+    <string name="tv_option_19_2">The Underworld</string>
+    <string name="tv_option_19_3">The Shadow Realm</string>
+    <string name="tv_option_19_4">The Upside Down</string>
+    <string name="tv_answer_19">The Upside Down</string>
+
+    <!-- Question 20 -->
+    <string name="tv_question_20">Which TV show follows the lives of employees working at the Scranton, Pennsylvania branch of the Dunder Mifflin paper company?</string>
+    <string name="tv_option_20_1">Parks and Recreation</string>
+    <string name="tv_option_20_2">The Office</string>
+    <string name="tv_option_20_3">Brooklyn Nine-Nine</string>
+    <string name="tv_option_20_4">30 Rock</string>
+    <string name="tv_answer_20">The Office</string>
+
+    <!-- Question 0 -->
+    <string name="country_question_0">What is the capital of Japan?</string>
+    <string name="country_option_0_1">Tokyo</string>
+    <string name="country_option_0_2">Beijing</string>
+    <string name="country_option_0_3">Seoul</string>
+    <string name="country_option_0_4">Bangkok</string>
+    <string name="country_answer_0">Tokyo</string>
+
+    <!-- Question 1 -->
+    <string name="country_question_1">Which country is known as the Land of Pyramids?</string>
+    <string name="country_option_1_1">Greece</string>
+    <string name="country_option_1_2">Egypt</string>
+    <string name="country_option_1_3">Mexico</string>
+    <string name="country_option_1_4">India</string>
+    <string name="country_answer_1">Egypt</string>
+
+    <!-- Question 2 -->
+    <string name="country_question_2">Which country is home to the famous Christ the Redeemer statue?</string>
+    <string name="country_option_2_1">Brazil</string>
+    <string name="country_option_2_2">Italy</string>
+    <string name="country_option_2_3">France</string>
+    <string name="country_option_2_4">Australia</string>
+    <string name="country_answer_2">Brazil</string>
+
+    <!-- Question 3 -->
+    <string name="country_question_3">What is the largest country by land area?</string>
+    <string name="country_option_3_1">Russia</string>
+    <string name="country_option_3_2">United States</string>
+    <string name="country_option_3_3">China</string>
+    <string name="country_option_3_4">Canada</string>
+    <string name="country_answer_3">Russia</string>
+
+    <!-- Question 4 -->
+    <string name="country_question_4">Which country is known for its tulip fields and windmills?</string>
+    <string name="country_option_4_1">Netherlands</string>
+    <string name="country_option_4_2">Switzerland</string>
+    <string name="country_option_4_3">Austria</string>
+    <string name="country_option_4_4">Belgium</string>
+    <string name="country_answer_4">Netherlands</string>
+
+    <!-- Question 5 -->
+    <string name="country_question_5">In which country is the Great Wall located?</string>
+    <string name="country_option_5_1">India</string>
+    <string name="country_option_5_2">China</string>
+    <string name="country_option_5_3">Japan</string>
+    <string name="country_option_5_4">South Korea</string>
+    <string name="country_answer_5">China</string>
+
+    <!-- Question 6 -->
+    <string name="country_question_6">Which country is famous for its wildlife and safaris in places like the Serengeti?</string>
+    <string name="country_option_6_1">Kenya</string>
+    <string name="country_option_6_2">Brazil</string>
+    <string name="country_option_6_3">Australia</string>
+    <string name="country_option_6_4">Canada</string>
+    <string name="country_answer_6">Kenya</string>
+
+    <!-- Question 7 -->
+    <string name="country_question_7">What is the official language of Brazil?</string>
+    <string name="country_option_7_1">Spanish</string>
+    <string name="country_option_7_2">Portuguese</string>
+    <string name="country_option_7_3">French</string>
+    <string name="country_option_7_4">English</string>
+    <string name="country_answer_7">Portuguese</string>
+
+    <!-- Question 8 -->
+    <string name="country_question_8">Which country is known as the "Land of the Rising Sun"?</string>
+    <string name="country_option_8_1">China</string>
+    <string name="country_option_8_2">Japan</string>
+    <string name="country_option_8_3">South Korea</string>
+    <string name="country_option_8_4">Vietnam</string>
+    <string name="country_answer_8">Japan</string>
+
+    <!-- Question 9 -->
+    <string name="country_question_9">In which country can you find the ancient city of Petra, famous for its rock-cut architecture?</string>
+    <string name="country_option_9_1">Egypt</string>
+    <string name="country_option_9_2">Jordan</string>
+    <string name="country_option_9_3">Greece</string>
+    <string name="country_option_9_4">Turkey</string>
+    <string name="country_answer_9">Jordan</string>
+
+    <!-- Question 10 -->
+    <string name="country_question_10">Which country is known as the "Land of the Midnight Sun" due to its extended daylight during summers?</string>
+    <string name="country_option_10_1">Norway</string>
+    <string name="country_option_10_2">Sweden</string>
+    <string name="country_option_10_3">Canada</string>
+    <string name="country_option_10_4">Russia</string>
+    <string name="country_answer_10">Norway</string>
+
+    <!-- Question 11 -->
+    <string name="country_question_11">Which country is home to the ancient archaeological site of Machu Picchu?</string>
+    <string name="country_option_11_1">Mexico</string>
+    <string name="country_option_11_2">Peru</string>
+    <string name="country_option_11_3">Chile</string>
+    <string name="country_option_11_4">Argentina</string>
+    <string name="country_answer_11">Peru</string>
+
+    <!-- Question 12 -->
+    <string name="country_question_12">What is the smallest continent in the world?</string>
+    <string name="country_option_12_1">North America</string>
+    <string name="country_option_12_2">Europe</string>
+    <string name="country_option_12_3">Asia</string>
+    <string name="country_option_12_4">Australia</string>
+    <string name="country_answer_12">Australia</string>
+
+    <!-- Question 13 -->
+    <string name="country_question_13">Which country is famous for its ancient ruins of Angkor Wat?</string>
+    <string name="country_option_13_1">Vietnam</string>
+    <string name="country_option_13_2">Thailand</string>
+    <string name="country_option_13_3">Cambodia</string>
+    <string name="country_option_13_4">Indonesia</string>
+    <string name="country_answer_13">Cambodia</string>
+
+    <!-- Question 14 -->
+    <string name="country_question_14">What is the largest country in South America?</string>
+    <string name="country_option_14_1">Argentina</string>
+    <string name="country_option_14_2">Peru</string>
+    <string name="country_option_14_3">Brazil</string>
+    <string name="country_option_14_4">Colombia</string>
+    <string name="country_answer_14">Brazil</string>
+
+    <!-- Question 15 -->
+    <string name="country_question_15">In which country can you visit the ancient city of Rome and see the Colosseum?</string>
+    <string name="country_option_15_1">Greece</string>
+    <string name="country_option_15_2">Italy</string>
+    <string name="country_option_15_3">Spain</string>
+    <string name="country_option_15_4">France</string>
+    <string name="country_answer_15">Italy</string>
+
+    <!-- Question 16 -->
+    <string name="country_question_16">Which country is known as the Land of the Rising Sun?</string>
+    <string name="country_option_16_1">China</string>
+    <string name="country_option_16_2">Japan</string>
+    <string name="country_option_16_3">South Korea</string>
+    <string name="country_option_16_4">Vietnam</string>
+    <string name="country_answer_16">Japan</string>
+
+    <!-- Question 17 -->
+    <string name="country_question_17">Which European country is known for its windmills, tulip fields, and wooden shoes?</string>
+    <string name="country_option_17_1">France</string>
+    <string name="country_option_17_2">Italy</string>
+    <string name="country_option_17_3">Netherlands</string>
+    <string name="country_option_17_4">Spain</string>
+    <string name="country_answer_17">Netherlands</string>
+
+    <!-- Question 18 -->
+    <string name="country_question_18">Which country is the second-largest in the world by land area?</string>
+    <string name="country_option_18_1">United States</string>
+    <string name="country_option_18_2">China</string>
+    <string name="country_option_18_3">Canada</string>
+    <string name="country_option_18_4">Russia</string>
+    <string name="country_answer_18">Canada</string>
+
+    <!-- Question 19 -->
+    <string name="country_question_19">Which country is home to the famous ancient monument Stonehenge?</string>
+    <string name="country_option_19_1">United Kingdom</string>
+    <string name="country_option_19_2">France</string>
+    <string name="country_option_19_3">Egypt</string>
+    <string name="country_option_19_4">Greece</string>
+    <string name="country_answer_19">United Kingdom</string>
+
+    <!-- Question 0 -->
+    <string name="math_question_0">What is 2 + 2?</string>
+    <string name="math_option_0_1">3</string>
+    <string name="math_option_0_2">4</string>
+    <string name="math_option_0_3">5</string>
+    <string name="math_option_0_4">6</string>
+    <string name="math_answer_0">4</string>
+
+    <!-- Question 1 -->
+    <string name="math_question_1">What is 3 * 5?</string>
+    <string name="math_option_1_1">10</string>
+    <string name="math_option_1_2">15</string>
+    <string name="math_option_1_3">20</string>
+    <string name="math_option_1_4">25</string>
+    <string name="math_answer_1">15</string>
+
+    <!-- Question 2 -->
+    <string name="math_question_2">What is the square root of 16?</string>
+    <string name="math_option_2_1">2</string>
+    <string name="math_option_2_2">4</string>
+    <string name="math_option_2_3">8</string>
+    <string name="math_option_2_4">16</string>
+    <string name="math_answer_2">4</string>
+
+    <!-- Question 3 -->
+    <string name="math_question_3">What is 10 - 7?</string>
+    <string name="math_option_3_1">1</string>
+    <string name="math_option_3_2">2</string>
+    <string name="math_option_3_3">3</string>
+    <string name="math_option_3_4">4</string>
+    <string name="math_answer_3">3</string>
+
+    <!-- Question 4 -->
+    <string name="math_question_4">What is 6 divided by 2?</string>
+    <string name="math_option_4_1">2</string>
+    <string name="math_option_4_2">3</string>
+    <string name="math_option_4_3">4</string>
+    <string name="math_option_4_4">6</string>
+    <string name="math_answer_4">3</string>
+
+    <!-- Question 5 -->
+    <string name="math_question_5">What is 9 squared?</string>
+    <string name="math_option_5_1">9</string>
+    <string name="math_option_5_2">18</string>
+    <string name="math_option_5_3">81</string>
+    <string name="math_option_5_4">91</string>
+    <string name="math_answer_5">81</string>
+
+    <!-- Question 6 -->
+    <string name="math_question_6">What is the value of pi (π)?</string>
+    <string name="math_option_6_1">3.14</string>
+    <string name="math_option_6_2">3.141</string>
+    <string name="math_option_6_3">3.1415</string>
+    <string name="math_option_6_4">3.14159</string>
+    <string name="math_answer_6">3.14159</string>
+
+    <!-- Question 7 -->
+    <string name="math_question_7">What is 12 * 8?</string>
+    <string name="math_option_7_1">72</string>
+    <string name="math_option_7_2">80</string>
+    <string name="math_option_7_3">88</string>
+    <string name="math_option_7_4">96</string>
+    <string name="math_answer_7">96</string>
+
+    <!-- Question 8 -->
+    <string name="math_question_8">What is 100 divided by 10?</string>
+    <string name="math_option_8_1">1</string>
+    <string name="math_option_8_2">10</string>
+    <string name="math_option_8_3">50</string>
+    <string name="math_option_8_4">100</string>
+    <string name="math_answer_8">10</string>
+
+    <!-- Question 9 -->
+    <string name="math_question_9">What is 7 + 3 * 2?</string>
+    <string name="math_option_9_1">12</string>
+    <string name="math_option_9_2">13</string>
+    <string name="math_option_9_3">17</string>
+    <string name="math_option_9_4">20</string>
+    <string name="math_answer_9">13</string>
+
+    <!-- Question 10 -->
+    <string name="math_question_10">What is the cube root of 27?</string>
+    <string name="math_option_10_1">3</string>
+    <string name="math_option_10_2">4</string>
+    <string name="math_option_10_3">5</string>
+    <string name="math_option_10_4">6</string>
+    <string name="math_answer_10">3</string>
+
+    <!-- Question 11 -->
+    <string name="math_question_11">What is 5 squared?</string>
+    <string name="math_option_11_1">15</string>
+    <string name="math_option_11_2">20</string>
+    <string name="math_option_11_3">25</string>
+    <string name="math_option_11_4">30</string>
+    <string name="math_answer_11">25</string>
+
+    <!-- Question 12 -->
+    <string name="math_question_12">What is 18 divided by 3?</string>
+    <string name="math_option_12_1">3</string>
+    <string name="math_option_12_2">6</string>
+    <string name="math_option_12_3">9</string>
+    <string name="math_option_12_4">12</string>
+    <string name="math_answer_12">6</string>
+
+    <!-- Question 13 -->
+    <string name="math_question_13">What is the value of 2 * pi (2π)?</string>
+    <string name="math_option_13_1">3.14</string>
+    <string name="math_option_13_2">6.28</string>
+    <string name="math_option_13_3">9.42</string>
+    <string name="math_option_13_4">12.56</string>
+    <string name="math_answer_13">6.28</string>
+
+    <!-- Question 14 -->
+    <string name="math_question_14">What is 50 + 25?</string>
+    <string name="math_option_14_1">60</string>
+    <string name="math_option_14_2">75</string>
+    <string name="math_option_14_3">85</string>
+    <string name="math_option_14_4">100</string>
+    <string name="math_answer_14">75</string>
+
+    <!-- Question 15 -->
+    <string name="math_question_15">What is 4 * 9?</string>
+    <string name="math_option_15_1">30</string>
+    <string name="math_option_15_2">36</string>
+    <string name="math_option_15_3">40</string>
+    <string name="math_option_15_4">45</string>
+    <string name="math_answer_15">36</string>
+
+    <!-- Question 16 -->
+    <string name="math_question_16">What is the square root of 64?</string>
+    <string name="math_option_16_1">6</string>
+    <string name="math_option_16_2">7</string>
+    <string name="math_option_16_3">8</string>
+    <string name="math_option_16_4">9</string>
+    <string name="math_answer_16">8</string>
+
+    <!-- Question 17 -->
+    <string name="math_question_17">What is 15 - 9?</string>
+    <string name="math_option_17_1">4</string>
+    <string name="math_option_17_2">5</string>
+    <string name="math_option_17_3">6</string>
+    <string name="math_option_17_4">7</string>
+    <string name="math_answer_17">6</string>
+
+    <!-- Question 18 -->
+    <string name="math_question_18">What is 30 divided by 5?</string>
+    <string name="math_option_18_1">4</string>
+    <string name="math_option_18_2">5</string>
+    <string name="math_option_18_3">6</string>
+    <string name="math_option_18_4">7</string>
+    <string name="math_answer_18">6</string>
+
+    <!-- Question 19 -->
+    <string name="math_question_19">What is 3 squared?</string>
+    <string name="math_option_19_1">3</string>
+    <string name="math_option_19_2">6</string>
+    <string name="math_option_19_3">9</string>
+    <string name="math_option_19_4">12</string>
+    <string name="math_answer_19">9</string>
+
+    <!-- Question 0 -->
+    <string name="music_question_0">Who is known as the "King of Pop"?</string>
+    <string name="music_option_0_1">Michael Jackson</string>
+    <string name="music_option_0_2">Elvis Presley</string>
+    <string name="music_option_0_3">Frank Sinatra</string>
+    <string name="music_option_0_4">Prince</string>
+    <string name="music_answer_0">Michael Jackson</string>
+
+    <!-- Question 1 -->
+    <string name="music_question_1">Which band is known for the song "Bohemian Rhapsody"?</string>
+    <string name="music_option_1_1">The Beatles</string>
+    <string name="music_option_1_2">Queen</string>
+    <string name="music_option_1_3">Led Zeppelin</string>
+    <string name="music_option_1_4">The Rolling Stones</string>
+    <string name="music_answer_1">Queen</string>
+
+    <!-- Question 2 -->
+    <string name="music_question_2">Who won the 2021 Grammy Award for Album of the Year?</string>
+    <string name="music_option_2_1">Beyoncé</string>
+    <string name="music_option_2_2">Taylor Swift</string>
+    <string name="music_option_2_3">Dua Lipa</string>
+    <string name="music_option_2_4">Billie Eilish</string>
+    <string name="music_answer_2">Taylor Swift</string>
+
+    <!-- Question 3 -->
+    <string name="music_question_3">Which artist released the hit song "Shape of You"?</string>
+    <string name="music_option_3_1">Ed Sheeran</string>
+    <string name="music_option_3_2">Bruno Mars</string>
+    <string name="music_option_3_3">Justin Bieber</string>
+    <string name="music_option_3_4">Adele</string>
+    <string name="music_answer_3">Ed Sheeran</string>
+
+    <!-- Question 4 -->
+    <string name="music_question_4">What is the best-selling album of all time?</string>
+    <string name="music_option_4_1">Thriller - Michael Jackson</string>
+    <string name="music_option_4_2">Back in Black - AC/DC</string>
+    <string name="music_option_4_3">Dark Side of the Moon - Pink Floyd</string>
+    <string name="music_option_4_4">Rumours - Fleetwood Mac</string>
+    <string name="music_answer_4">Thriller - Michael Jackson</string>
+
+    <!-- Question 5 -->
+    <string name="music_question_5">Which legendary guitarist is known for his rendition of "The Star-Spangled Banner" at Woodstock in 1969?</string>
+    <string name="music_option_5_1">Eric Clapton</string>
+    <string name="music_option_5_2">Jimmy Page</string>
+    <string name="music_option_5_3">Jimi Hendrix</string>
+    <string name="music_option_5_4">Keith Richards</string>
+    <string name="music_answer_5">Jimi Hendrix</string>
+
+    <!-- Question 6 -->
+    <string name="music_question_6">Which female artist is known for her song "Rolling in the Deep"?</string>
+    <string name="music_option_6_1">Adele</string>
+    <string name="music_option_6_2">Rihanna</string>
+    <string name="music_option_6_3">Lady Gaga</string>
+    <string name="music_option_6_4">Katy Perry</string>
+    <string name="music_answer_6">Adele</string>
+
+    <!-- Question 7 -->
+    <string name="music_question_7">Who is the lead singer of the band U2?</string>
+    <string name="music_option_7_1">Bono</string>
+    <string name="music_option_7_2">Sting</string>
+    <string name="music_option_7_3">Mick Jagger</string>
+    <string name="music_option_7_4">Freddie Mercury</string>
+    <string name="music_answer_7">Bono</string>
+
+    <!-- Question 8 -->
+    <string name="music_question_8">Which music genre originated in Jamaica and features a strong offbeat rhythm?</string>
+    <string name="music_option_8_1">Jazz</string>
+    <string name="music_option_8_2">Salsa</string>
+    <string name="music_option_8_3">Reggae</string>
+    <string name="music_option_8_4">Hip Hop</string>
+    <string name="music_answer_8">Reggae</string>
+
+    <!-- Question 9 -->
+    <string name="music_question_9">Which legendary singer was known as the "Queen of Soul"?</string>
+    <string name="music_option_9_1">Diana Ross</string>
+    <string name="music_option_9_2">Aretha Franklin</string>
+    <string name="music_option_9_3">Whitney Houston</string>
+    <string name="music_option_9_4">Tina Turner</string>
+    <string name="music_answer_9">Aretha Franklin</string>
+
+    <!-- Question 10 -->
+    <string name="music_question_10">Who is known for his dance moves such as the "Moonwalk"?</string>
+    <string name="music_option_10_1">Elvis Presley</string>
+    <string name="music_option_10_2">Michael Jackson</string>
+    <string name="music_option_10_3">Prince</string>
+    <string name="music_option_10_4">James Brown</string>
+    <string name="music_answer_10">Michael Jackson</string>
+
+    <!-- Question 11 -->
+    <string name="music_question_11">Which boy band gained fame in the 1990s with hits like "I Want It That Way"?</string>
+    <string name="music_option_11_1">Backstreet Boys</string>
+    <string name="music_option_11_2">NSYNC</string>
+    <string name="music_option_11_3">Boyz II Men</string>
+    <string name="music_option_11_4">New Kids on the Block</string>
+    <string name="music_answer_11">Backstreet Boys</string>
+
+    <!-- Question 12 -->
+    <string name="music_question_12">Which iconic singer is known for her signature song "Respect"?</string>
+    <string name="music_option_12_1">Diana Ross</string>
+    <string name="music_option_12_2">Janis Joplin</string>
+    <string name="music_option_12_3">Aretha Franklin</string>
+    <string name="music_option_12_4">Etta James</string>
+    <string name="music_answer_12">Aretha Franklin</string>
+
+    <!-- Question 13 -->
+    <string name="music_question_13">What is the name of Beyoncés visual album released in 2016?</string>
+    <string name="music_option_13_1">Lemonade</string>
+    <string name="music_option_13_2">Formation</string>
+    <string name="music_option_13_3">Love On Top</string>
+    <string name="music_option_13_4">Crazy in Love</string>
+    <string name="music_answer_13">Lemonade</string>
+
+    <!-- Question 14 -->
+    <string name="music_question_14">Which band is known for the song "Stairway to Heaven"?</string>
+    <string name="music_option_14_1">The Rolling Stones</string>
+    <string name="music_option_14_2">Led Zeppelin</string>
+    <string name="music_option_14_3">The Who</string>
+    <string name="music_option_14_4">Pink Floyd</string>
+    <string name="music_answer_14">Led Zeppelin</string>
+
+    <!-- Question 15 -->
+    <string name="music_question_15">Who is the lead singer of the band Coldplay?</string>
+    <string name="music_option_15_1">Chris Martin</string>
+    <string name="music_option_15_2">Adam Levine</string>
+    <string name="music_option_15_3">Dave Grohl</string>
+    <string name="music_option_15_4">Brandon Flowers</string>
+    <string name="music_answer_15">Chris Martin</string>
+
+    <!-- Question 16 -->
+    <string name="music_question_16">Which female artist released the album "1989" in 2014?</string>
+    <string name="music_option_16_1">Katy Perry</string>
+    <string name="music_option_16_2">Taylor Swift</string>
+    <string name="music_option_16_3">Adele</string>
+    <string name="music_option_16_4">Lady Gaga</string>
+    <string name="music_answer_16">Taylor Swift</string>
+
+    <!-- Question 17 -->
+    <string name="music_question_17">Which rapper released the album "Good Kid, M.A.A.D City" in 2012?</string>
+    <string name="music_option_17_1">Kendrick Lamar</string>
+    <string name="music_option_17_2">Eminem</string>
+    <string name="music_option_17_3">Jay-Z</string>
+    <string name="music_option_17_4">Drake</string>
+    <string name="music_answer_17">Kendrick Lamar</string>
+
+    <!-- Question 18 -->
+    <string name="music_question_18">What is the name of Rihannas debut single released in 2005?</string>
+    <string name="music_option_18_1">Umbrella</string>
+    <string name="music_option_18_2">Disturbia</string>
+    <string name="music_option_18_3">Pon de Replay</string>
+    <string name="music_option_18_4">SOS</string>
+    <string name="music_answer_18">Pon de Replay</string>
+
+    <!-- Question 19 -->
+    <string name="music_question_19">Which band is known for their hit song "Dont Stop Believin"?</string>
+    <string name="music_option_19_1">Bon Jovi</string>
+    <string name="music_option_19_2">The Eagles</string>
+    <string name="music_option_19_3">Journey</string>
+    <string name="music_option_19_4">Fleetwood Mac</string>
+    <string name="music_answer_19">Journey</string>
+
+</resources>
