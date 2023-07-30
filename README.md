@@ -1,3 +1,6 @@
+Project video:
+https://lut-my.sharepoint.com/:v:/g/personal/henri_hujanen_student_lut_fi/ETkOZRfKVopGnhaHVtMbhIoBdrW5WKElDNxqA9vTrxZ_DQ?e=ZQIsZ6
+
 To run the project you need:
 Android Studio (latest version recommended)
 Android SDK with API 30 installed
